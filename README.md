@@ -11,7 +11,7 @@
 
 Imagine que você está tentando encaixar uma peça de quebra-cabeça. Se as outras peças ao redor já estão organizadas no lugar certo, fica muito mais fácil encaixar a nova peça, certo? 
 
-**A Teoria TRIO-G aplica essa mesma ideia às reações químicas!**
+**A Teoria aplica essa mesma ideia às reações químicas!**
 
 Quando o ambiente ao redor das moléculas está "organizado" da forma certa, as reações acontecem mais rápido. Chamamos essa organização de **coerência**, e conseguimos medir ela usando uma unidade simples: **bits**.
 
@@ -231,7 +231,7 @@ Tradicionalmente, aceleração de reações é explicada por:
 - Redução de ΔH‡ (entalpia)
 - Aumento de ΔS‡ (entropia)
 
-A TRIO-G adiciona:
+A teoria adiciona:
 - **δ (coerência)** - organização informacional do ambiente
 
 Isso permite quantificar efeitos que antes eram qualitativos, como:
