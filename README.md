@@ -1,4 +1,4 @@
-# Teoria TRIO-G: Coerência em Cinética Química
+ Coerência em Cinética Química
 
 > **Teoria da Relatividade Informacional Ontológica Geral**  
 > Formalização da dimensão de coerência aplicada à cinética química
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧬 O que é a Teoria TRIO-G?
+## 🧬 O que é a coerência da Cinética Química?
 
 Imagine que você está tentando encaixar uma peça de quebra-cabeça. Se as outras peças ao redor já estão organizadas no lugar certo, fica muito mais fácil encaixar a nova peça, certo? 
 
@@ -39,7 +39,7 @@ O documento apresenta:
 1. **Índice de Coerência (δ)** - Mede a organização do ambiente em "bits"
 2. **Energia de Coerência (∅)** - Como a organização reduz a barreira de ativação
 3. **Constante Efetiva** - A equação que mostra como δ acelera reações
-4. **Critério de Fechamento (F)** - Indica se a reação é favorecida ou não
+4. **Critério de Fechamento (F)** - Indica se a reação é favorecida ou não (descontinuado)
 5. **Exemplos Práticos** - Cálculos reais com mutações e enzimas
 
 ---
