@@ -1,13 +1,13 @@
  Coerência em Cinética Química
 
-> **Teoria da Relatividade Informacional Ontológica Geral**  
+> **Teoria Informacional**  
 > Formalização da dimensão de coerência aplicada à cinética química
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
-## 🧬 O que é a coerência da Cinética Química?
+##  O que é a coerência da Cinética Química?
 
 Imagine que você está tentando encaixar uma peça de quebra-cabeça. Se as outras peças ao redor já estão organizadas no lugar certo, fica muito mais fácil encaixar a nova peça, certo? 
 
@@ -15,7 +15,7 @@ Imagine que você está tentando encaixar uma peça de quebra-cabeça. Se as out
 
 Quando o ambiente ao redor das moléculas está "organizado" da forma certa, as reações acontecem mais rápido. Chamamos essa organização de **coerência**, e conseguimos medir ela usando uma unidade simples: **bits**.
 
-### 💡 A descoberta principal
+###  A descoberta principal
 
 **1 bit de coerência = a reação fica 2 vezes mais rápida**
 
@@ -26,13 +26,13 @@ Isso significa que:
 
 ---
 
-## 📚 O que tem neste repositório?
+##  O que tem neste repositório?
 
-### 📄 Documento Principal
+###  Documento Principal
 - **`coerencia_TRIOG.pdf`** - Formalização matemática completa
 - **`coerencia_TRIOG.tex`** - Código LaTeX fonte
 
-### 🧮 Conteúdo Técnico
+###  Conteúdo Técnico
 
 O documento apresenta:
 
@@ -44,7 +44,7 @@ O documento apresenta:
 
 ---
 
-## 🔬 Como funciona na prática?
+##  Como funciona na prática?
 
 ### Exemplo Real
 
@@ -63,7 +63,7 @@ Resultado: A reação fica 7.4× mais rápida! (2^2.89 ≈ 7.4)
 
 ---
 
-## 📐 Fórmulas Principais
+##  Fórmulas Principais
 
 ### Energia de Coerência
 ```
@@ -89,7 +89,7 @@ F < 0 → Reação desfavorecida (ambiente desorganizado)
 
 ---
 
-## 🎯 Para que serve?
+##  Para que serve?
 
 ### Aplicações Práticas
 
@@ -111,7 +111,7 @@ F < 0 → Reação desfavorecida (ambiente desorganizado)
 
 ---
 
-## 🧪 Conceitos-Chave Explicados
+##  Conceitos-Chave Explicados
 
 ### O que é "Coerência"?
 
@@ -143,7 +143,7 @@ A teoria TRIO-G calcula exatamente quanto a montanha diminui com cada bit de org
 
 ---
 
-## 📊 Notação e Símbolos
+##  Notação e Símbolos
 
 | Símbolo | Significado | Unidade |
 |---------|-------------|---------|
@@ -158,7 +158,7 @@ A teoria TRIO-G calcula exatamente quanto a montanha diminui com cada bit de org
 
 ---
 
-## 🚀 Como Usar Este Trabalho
+##  Como Usar Este Trabalho
 
 ### Para Pesquisadores
 
@@ -215,7 +215,7 @@ print(f"Reação fica {velocidade:.1f}× mais rápida")
 
 ---
 
-## 🎓 Fundamentos Teóricos
+## Fundamentos Teóricos
 
 ### Base Física
 
@@ -241,7 +241,7 @@ Isso permite quantificar efeitos que antes eram qualitativos, como:
 
 ---
 
-## 🔧 Compilação do LaTeX
+## Compilação do LaTeX
 
 Para gerar o PDF a partir do código fonte:
 
@@ -259,7 +259,7 @@ pdflatex coerencia_TRIOG.tex  # Segunda vez para referências
 
 ---
 
-## 🤝 Contribuições
+##  Contribuições
 
 Este é um trabalho em desenvolvimento! Contribuições são bem-vindas:
 
@@ -271,7 +271,7 @@ Este é um trabalho em desenvolvimento! Contribuições são bem-vindas:
 
 ---
 
-## 📬 Autor
+##  Autor
 
 **Kevin Khristopher Kuznier**
 
@@ -279,7 +279,7 @@ Este é um trabalho em desenvolvimento! Contribuições são bem-vindas:
 
 ---
 
-## 📜 Licença
+##  Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
 
@@ -293,19 +293,15 @@ Desde que mantenha o aviso de copyright e a licença.
 
 ---
 
-## 🌟 Por que "TRIO-G"?
+
 
 **T**eoria da **R**elatividade **I**nformacional **O**ntológica **G**eral
 
-A teoria conecta:
-- **Relatividade** - relações entre observáveis
-- **Informação** - bits de organização
-- **Ontologia** - natureza fundamental dos processos
-- **Geral** - aplicável a diversos sistemas
+
 
 ---
 
-## 📌 Citação
+## Citação
 
 Se você usar este trabalho, por favor cite:
 
@@ -320,7 +316,7 @@ Se você usar este trabalho, por favor cite:
 
 ---
 
-## 🔗 Links Úteis
+##  Links Úteis
 
 - 📄 [Documento PDF Completo](coerencia_TRIOG.pdf)
 - 📝 [Código LaTeX](coerencia_TRIOG.tex)
